@@ -11,7 +11,7 @@ namespace Practica_Num3
         static void Main(string[] args)
         {
 
-            //Variables
+            
             int horas;
             float minutos;
             float segundos;
